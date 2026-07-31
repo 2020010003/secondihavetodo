@@ -121,7 +121,7 @@ Cute blue mascot character Odi waving hands enthusiastically, central focus, whi
 
 ## 🎞️ 6. 최종 인코딩 및 출력 스펙
 
-* **파일명**: `Odi_ODA_Career_Campaign_9x16.mp4`
+* **파일명**: '코디세이 제출_1분'
 * **영상 길이**: 8.5초 (10초 이내 요구사항 준수)
 * **해상도 / 비율**: 1080 x 1920 (9:16 숏폼 표준)
 * **프레임레이트**: 30 fps
