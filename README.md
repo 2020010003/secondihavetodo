@@ -61,7 +61,6 @@
 
 ```
 
-* **결과 파일**: `scene01_intro.png`, `scene01_motion.mp4`
 
 ---
 
@@ -78,7 +77,6 @@ Infographic style 2D graphic showing three major fields: healthcare stethoscope,
 ```
 
 
-* **결과 파일**: `scene02_majors.mp4`
 
 ---
 
@@ -95,7 +93,6 @@ Cute blue mascot character Odi waving hands enthusiastically, central focus, whi
 ```
 
 
-* **결과 파일**: `scene03_outro.mp4`
 
 ---
 
